@@ -1,0 +1,48 @@
+html {
+    font-family: sans-serif;
+   background-color: cadetblue;
+}
+
+.page-title {
+    font-weight: 100;
+    font-size: 16px;
+    font-family: "Rubik Beastly", system-ui;
+}
+
+.tags {
+    background-color: rgb(85, 84, 81);
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    color: white;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Schoolbell", cursive;
+}
+
+.room-name {
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+     border-radius: 20px;
+}
+
+.dish {
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(89, 99, 250);
+    background-color: rgb(63, 225, 198);
+    border-radius: 15px;
+  
+
+}
+
+.rooms {
+    list-style-type: none;
+}
+
+.remove {
+    list-style-type: none;
+}
